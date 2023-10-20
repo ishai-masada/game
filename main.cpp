@@ -1,7 +1,7 @@
-// On linux compile with:
-// g++ -std=c++17 main.cpp glad/src/glad.c -I./glad/include -o prog -lSDL2 -ldl
-// On windows compile with (if using mingw)
-// g++ main.cpp ./glad/src/glad.c -I./glad/include -o prog.exe -lmingw32 -lSDL2main -lSDL2
+/*
+Ishai Masada
+Game Project
+*/
 
 // C++ Standard Libraries
 #include <iostream>
